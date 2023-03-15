@@ -1,0 +1,4 @@
+tensorflow-gpu
+numpy
+mtcnn
+opencv-python
