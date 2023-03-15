@@ -16,8 +16,8 @@
   
     python detect_img.py
   
-  Model test: https://drive.google.com/drive/folders/1i2eVImgpoDTFJQPWdzcfkEdUcy3WH-mm?usp=sharing
+  Model test:https://drive.google.com/drive/folders/11i7t1tLPh2YvclYNZY4qJQUqDKKuKp1k
   
   
-  Data đã crop từ tập NUAA. LINK: https://drive.google.com/drive/folders/1CztzcLfQMXCTiszlT6r4NQGLyS6V2WbV?usp=sharing
+  Data đã crop từ tập NUAA. https://drive.google.com/drive/folders/1K6oGni40MmgMV4Z4MHR3YE2Lir0kL_A9
 
