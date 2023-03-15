@@ -19,5 +19,5 @@
   Model test:https://drive.google.com/drive/folders/11i7t1tLPh2YvclYNZY4qJQUqDKKuKp1k
   
   
-  Data đã crop từ tập NUAA. https://github.com/CuongTran1206/Face_anti_spoofing
+  Data đã crop từ tập NUAA. https://drive.google.com/drive/folders/1sWgiumD0SrrTTpgntrhDY-R0wOw_fakU?usp=share_link
 
